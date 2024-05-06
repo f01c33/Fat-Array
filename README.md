@@ -103,5 +103,4 @@ fat_setalloc(T, array, newlen)
 
 // Frees the array.
 fat_free(T, array)
-
 ```
